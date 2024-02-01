@@ -1,0 +1,3 @@
+
+
+        http://localhost:4000/api-docs/#/Authentication/post_api_user_signup
